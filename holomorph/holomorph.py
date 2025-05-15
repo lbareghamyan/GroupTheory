@@ -73,4 +73,4 @@ def holomorph_product_from_file(file_path):
     pretty_print_matrix(product)
 
 if __name__ == "__main__":
-    holomorph_product_from_file("holomorph_input_n10.json")
+    holomorph_product_from_file("examples/holomorph_input_n10.json")
